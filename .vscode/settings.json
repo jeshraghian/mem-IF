@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "mifenv\\Scripts\\python.exe",
+    "jupyter.jupyterServerType": "local"
+}
