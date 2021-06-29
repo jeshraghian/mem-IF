@@ -1,4 +1,4 @@
 {
-    "python.pythonPath": "mifenv\\Scripts\\python.exe",
+    "python.pythonPath": "/Users/ZP/opt/anaconda3/envs/py38/bin/python",
     "jupyter.jupyterServerType": "local"
 }
